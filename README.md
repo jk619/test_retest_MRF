@@ -11,6 +11,7 @@
 
 
   NOTES
+  
   Files used in the realignment are never resliced. The output is only
   a set of matrices that give the information of the realignemnt to the
   header
