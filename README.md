@@ -48,3 +48,6 @@
 
 
 Data (test and retest quantitative T1, T2 and PD maps) can be obtained from zenodo (https://zenodo.org/record/3989799#.Yt8vky-B1cQ)
+##
+For example execution of the scripts see PipelineV1.m
+
